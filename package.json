@@ -1,0 +1,23 @@
+{
+  "name": "library-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterbuoy/library-backend.git"
+  },
+  "author": "Peter Bui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterbuoy/library-backend/issues"
+  },
+  "homepage": "https://github.com/peterbuoy/library-backend#readme",
+  "dependencies": {
+    "apollo-server": "^3.9.0",
+    "graphql": "^16.5.0"
+  }
+}
